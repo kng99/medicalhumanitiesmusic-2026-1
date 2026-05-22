@@ -1,4 +1,6 @@
-<img width="1916" height="1199" alt="image" src="https://github.com/user-attachments/assets/176de034-8554-4098-a9b6-d4ddd943b088" />---
+<img src="./영화 노트북 ai 이미지.png" alt="description" style="width:33%;" />
+
+---
 Title: The Notebook
 Year: 2004
 Genre: Film
